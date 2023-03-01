@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IRgiLMRWbZj07Tv59zMadB/4lcfTVei03IS5oC0kcL4Q5sRnBmILkiJVpIwUhkXiA1wfCoWVcNo3ZcWSjBEkCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kille\\source\\repos\\OldMirror\\OldMirror\\OldMirror.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kille\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kille\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\kille\\.nuget\\packages\\unitymodstudio.build\\1.1.9\\unitymodstudio.build.1.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

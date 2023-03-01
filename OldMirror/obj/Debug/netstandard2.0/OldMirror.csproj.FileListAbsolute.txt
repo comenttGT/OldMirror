@@ -1,0 +1,10 @@
+C:\Users\kille\source\repos\OldMirror\OldMirror\bin\Debug\netstandard2.0\OldMirror.deps.json
+C:\Users\kille\source\repos\OldMirror\OldMirror\bin\Debug\netstandard2.0\OldMirror.dll
+C:\Users\kille\source\repos\OldMirror\OldMirror\bin\Debug\netstandard2.0\OldMirror.pdb
+C:\Users\kille\source\repos\OldMirror\OldMirror\obj\Debug\netstandard2.0\OldMirror.csproj.AssemblyReference.cache
+C:\Users\kille\source\repos\OldMirror\OldMirror\obj\Debug\netstandard2.0\OldMirror.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kille\source\repos\OldMirror\OldMirror\obj\Debug\netstandard2.0\OldMirror.AssemblyInfoInputs.cache
+C:\Users\kille\source\repos\OldMirror\OldMirror\obj\Debug\netstandard2.0\OldMirror.AssemblyInfo.cs
+C:\Users\kille\source\repos\OldMirror\OldMirror\obj\Debug\netstandard2.0\OldMirror.csproj.CoreCompileInputs.cache
+C:\Users\kille\source\repos\OldMirror\OldMirror\obj\Debug\netstandard2.0\OldMirror.dll
+C:\Users\kille\source\repos\OldMirror\OldMirror\obj\Debug\netstandard2.0\OldMirror.pdb
